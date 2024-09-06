@@ -109,7 +109,7 @@ def listar_contas(contas):
 
 
 def main():
-    LIMITE_SAQUES = 3
+    LIMITE_SAQUES = 5
     AGENCIA = "0001"
 
     saldo = 0
