@@ -21,9 +21,6 @@ Este repositório contém materiais e projetos desenvolvidos durante o curso de 
 4. Faça push para a branch (`git push origin feature/nova-feature`).
 5. Abra um Pull Request.
 
-## Contato
-Para mais informações, entre em contato pelo e-mail: seu-email@exemplo.com.
-
 ---
 
 **Nota**: Este repositório é destinado exclusivamente para fins educacionais e de aprendizado.
